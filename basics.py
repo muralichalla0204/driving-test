@@ -1,4 +1,5 @@
 page = "python automation testing "
+
 print(page.upper())
 
 print(page.lower())
@@ -11,7 +12,6 @@ print(page.strip())
 
 print(page.rstrip())
 
-
 print(page.replace("python","java"))
 
 print(len(page))
@@ -22,16 +22,13 @@ print(page.find(""))
 
 print(page.count("a"))
 
-
 print(page.startswith("python"))
 
 print(page.endswith("testing"))
 
-
 print(page.split())
 
 letters = sorted(page.replace(" ", ""))
-
 
 print(letters)
 
