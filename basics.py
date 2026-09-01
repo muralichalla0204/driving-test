@@ -6,21 +6,6 @@ print(page.lower())
 
 print(page.title())
 
-
-class name:
-    def ahr(self):
-        print('hari')
-
-
-class city(name):
-    def seri(self):
-        super().ahr()
-        print("cit")
-
-
-cn = city()
-cn.seri()
-
 print(page.capitalize())
 
 print(page.strip())
