@@ -34,7 +34,9 @@ for i in str(m):
      p +=1
 print(p)
 
-
+M = "121"
+if M == M[::-1]:
+    print("palenfrom")
 
 
 
