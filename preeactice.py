@@ -49,3 +49,6 @@ class city(name):
 
 cn = city()
 cn.seri()
+
+b = lambda a,b : a+b
+print(b(10,20))
